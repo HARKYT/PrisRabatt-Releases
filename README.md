@@ -4,7 +4,7 @@ Program för att uppdatera priser från en leverantörs prisfil.
 
 ## Ladda ner
 
-**[⬇ Hämta senaste versionen för Windows](https://github.com/HARKYT/Gothes-PrisRabatt-Nedladdning/releases/latest)**
+**[⬇ Hämta senaste versionen för Windows](https://github.com/HARKYT/PrisRabatt-Releases/releases/latest)**
 
 Ladda ner `.exe`-filen under **Assets** och kör den. Du behöver inget konto här.
 
@@ -21,7 +21,7 @@ Programmet säger till självt när det finns en ny version. En knapp dyker upp
 uppe till höger. Ingenting hämtas eller installeras utan att du klickar.
 
 Du kan också bevaka den här sidan utan konto: lägg till
-`https://github.com/HARKYT/Gothes-PrisRabatt-Nedladdning/releases.atom`
+`https://github.com/HARKYT/PrisRabatt-Releases/releases.atom`
 i en RSS-läsare.
 
 ## Om dina filer
