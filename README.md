@@ -10,10 +10,11 @@ Ladda ner `.exe`-filen under **Assets** och kör den. Du behöver inget konto h�
 
 ### Första gången visar Windows en varning
 
-Windows visar en blå ruta: *"Windows protected your PC"*. Det beror på att
+Windows visar en blå ruta: *"Windows har skyddat datorn"* (*"Windows
+protected your PC"* på en engelsk Windows). Det beror på att
 installationsfilen inte är digitalt signerad — inte på att något är fel med den.
 
-Klicka **More info**, och sedan **Run anyway**.
+Klicka **Mer information** (*More info*), och sedan **Kör ändå** (*Run anyway*).
 
 ## Uppdateringar
 
